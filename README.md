@@ -1,9 +1,4 @@
-# Curso de Machine Learning 
-Bienvenido al curso **"De Cero a Modelo: Machine Learning Intuitivo"**.
-Este repositorio contiene el material y documentación oficial del curso.
-Materiales y pagina web para el curso de Machine Learning
-
-# 🚀 Curso de Machine Learning para Educadores: De Cero a Modelo
+# 🚀 Curso de Machine Learning: **"De Cero a Modelo: Machine Learning Intuitivo"**.
 
 ¡Bienvenido al curso de Machine Learning diseñado específicamente para profesionales que desean explorar el fascinante mundo de la inteligencia artificial y el análisis de datos, partiendo desde cero!
 
