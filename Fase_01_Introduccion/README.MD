@@ -18,25 +18,27 @@ Al finalizar esta fase, serás capaz de:
 
 ## 📚 Materiales Incluidos en Esta Fase
 
-Esta fase se compone de los siguientes archivos y recursos, diseñados para ofrecer una experiencia de aprendizaje completa y flexible:
+Esta fase se compone de los siguientes archivos y recursos, diseñados para ofrecer una experiencia de aprendizaje completa y flexible. Se presentan en el orden que te sugerimos para un estudio óptimo:
 
-1.  **`README.md` (Este Archivo):**
-    * **Propósito:** Sirve como tu guía inicial para la fase, explicando los objetivos, los materiales disponibles, las herramientas utilizadas y una propuesta de cómo abordar el estudio de esta sección.
+README.md (Este Archivo):
 
-2.  **`Intro_ML.ipynb` (Jupyter Notebook):**
-    * **Propósito:** Este notebook te sumergirá en el mundo del Machine Learning a través de **ejemplos cotidianos y analogías intuitivas**. Definiremos formalmente el ML y exploraremos sus tipos principales, con un enfoque en la clasificación binaria. Incluye un pequeño ejercicio práctico en Python para que tengas tu primer contacto.
+Propósito: Sirve como tu guía inicial para la fase, explicando los objetivos, los materiales disponibles, las herramientas utilizadas y una propuesta de cómo abordar el estudio de esta sección.
+Recursos_Python_Jupyter.md (Archivo Markdown):
 
-3.  **`Titanic_Dataset.ipynb` (Jupyter Notebook):**
-    * **Propósito:** Aprenderás a cargar y realizar la **primera exploración de un dataset real y clásico**: el dataset del Titanic. Usaremos las funciones esenciales de Pandas (`.head()`, `.info()`, `.shape()`, `.describe()`) para entender la estructura de los datos, identificar la variable objetivo (`Survived`) y las características clave, y empezar a visualizar patrones iniciales.
+Propósito: Una guía rápida y práctica para principiantes en Python y Jupyter Notebooks. Contiene comandos básicos de Python que necesitarás en el curso, así como instrucciones sobre cómo usar las celdas de un notebook, guardarlo y ejecutarlo. Incluye enlaces útiles a recursos externos.
+Accede a Recursos_Python_Jupyter.md aquí (Este enlace funcionará una vez que el archivo esté en la misma carpeta).
+Intro_ML.ipynb (Jupyter Notebook):
 
-4.  **`Guía_Conceptos_ML.pdf` (Documento PDF):**
-    * **Propósito:** Para aquellos que prefieren una aproximación más teórica o desean consolidar los fundamentos, este documento ofrece una **explicación esencial y concisa de los conceptos teóricos** detrás del Machine Learning. Incluye definiciones clave y una explicación intuitiva de los algoritmos de aprendizaje supervisado y no supervisado.
-    * **[Accede directamente a la `Guía_Conceptos_ML.pdf` aquí](./Guia_Conceptos_ML.pdf)** (Este enlace funcionará una vez que el archivo PDF esté en la misma carpeta).
+Propósito: Este notebook te sumergirá en el mundo del Machine Learning a través de ejemplos cotidianos y analogías intuitivas. Definiremos formalmente el ML y exploraremos sus tipos principales, con un enfoque en la clasificación binaria. Incluye un pequeño ejercicio práctico en Python para que tengas tu primer contacto.
+Accede a Intro_ML.ipynb aquí (Este enlace funcionará una vez que el archivo esté en la misma carpeta).
+Titanic_Dataset.ipynb (Jupyter Notebook):
 
-5.  **`Recursos_Python_Jupyter.md` (Archivo Markdown):**
-    * **Propósito:** Una **guía rápida y práctica para principiantes** en Python y Jupyter Notebooks. Contiene comandos básicos de Python que necesitarás en el curso, así como instrucciones sobre cómo usar las celdas de un notebook, guardarlo y ejecutarlo. Incluye enlaces útiles a recursos externos.
+Propósito: Aprenderás a cargar y realizar la primera exploración de un dataset real y clásico: el dataset del Titanic. Usaremos las funciones esenciales de Pandas (.head(), .info(), .shape(), .describe()) para entender la estructura de los datos, identificar la variable objetivo (Survived) y las características clave, y empezar a visualizar patrones iniciales.
+Accede a Titanic_Dataset.ipynb aquí (Este enlace funcionará una vez que el archivo esté en la misma carpeta).
+Guía_Conceptos_ML.pdf (Documento PDF):
 
----
+Propósito: Para aquellos que prefieren una aproximación más teórica o desean consolidar los fundamentos, este documento ofrece una explicación esencial y concisa de los conceptos teóricos detrás del Machine Learning. Incluye definiciones clave y una explicación intuitiva de los algoritmos de aprendizaje supervisado y no supervisado.
+Accede directamente a la Guía_Conceptos_ML.pdf aquí (Este enlace funcionará una vez que el archivo PDF esté en la misma carpeta).---
 
 ## 🔗 Relación entre los Ficheros de la Fase
 
