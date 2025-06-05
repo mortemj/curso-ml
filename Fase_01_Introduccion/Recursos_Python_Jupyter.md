@@ -9,7 +9,17 @@
 * **Python:** Es un lenguaje de programación muy popular en ciencia de datos por su **simplicidad y legibilidad**. Cuenta con una comunidad enorme y librerías poderosas (como Pandas y Scikit-learn) que facilitan el trabajo con datos y modelos de ML.
 * **Jupyter Notebooks / Google Colab:** Son entornos interactivos que te permiten escribir código Python, ejecutarlo celda por celda, ver los resultados al instante y combinarlo con texto explicativo (como este). Son ideales para la experimentación y para presentar proyectos de forma clara.
     * **Jupyter Notebooks:** Se instalan y ejecutan en tu propio ordenador.
-    * **Google Colab:** Es una versión de Jupyter que se ejecuta en la nube de Google. Solo necesitas una cuenta de Google y conexión a internet, ¡sin instalaciones! Es la opción más recomendada si estás empezando y no quieres complicarte con configuraciones locales.
+    * **Google Colab:** Es una versión de Jupyter que se ejecuta en la nube de Google. Solo necesitas una cuenta de Google y conexión a internet, ¡sin instalaciones!
+
+---
+
+## 💻 Aprendiendo Python desde Cero
+
+Para una introducción completa y práctica a los fundamentos de Python, te recomendamos encarecidamente el siguiente videocurso. Es ideal para principiantes y te dará las bases necesarias para este curso:
+
+* **Curso de Python para Principiantes de Brais Moure:**
+    * [Accede al tutorial de Python de Brais Moure aquí](http://youtube.com/watch?v=k9W_aK7W3yI) (Si este es el enlace correcto del tutorial).
+    * *Nota: Asegúrate de ver los primeros módulos que cubren variables, tipos de datos, estructuras de control (condicionales y bucles) y funciones.*
 
 ---
 
@@ -52,60 +62,6 @@ Un notebook se compone de **celdas**. Hay dos tipos principales:
         **Texto en negrita**
         *Texto en cursiva*
         ```
-
----
-
-## 🐍 Comandos Básicos de Python para Empezar
-
-Aquí tienes algunos comandos fundamentales que te serán muy útiles:
-
-* **Comentarios:** Usa `#` para añadir notas en tu código. Python ignorará lo que siga al `#` en esa línea.
-    ```python
-    # Esto es un comentario
-    print("Hola Mundo") # Esto también es un comentario
-    ```
-
-* **Imprimir Texto o Valores (`print()`):** Para mostrar algo en la pantalla.
-    ```python
-    print("¡Bienvenido al Machine Learning!")
-    nombre = "Estudiante"
-    print("Hola,", nombre)
-    ```
-
-* **Variables:** Guarda información en un nombre.
-    ```python
-    edad = 30
-    temperatura = 25.5
-    es_cierto = True # Valores Booleanos (Verdadero/Falso)
-    ```
-
-* **Tipos de Datos Básicos:**
-    * `int` (enteros): `10`, `500`
-    * `float` (decimales): `3.14`, `0.5`
-    * `str` (cadenas de texto): `"Hola"`, `"Machine Learning"`
-    * `bool` (booleanos): `True`, `False`
-
-* **Operaciones Matemáticas Básicas:**
-    ```python
-    suma = 5 + 3     # 8
-    resta = 10 - 4   # 6
-    multiplicacion = 6 * 7 # 42
-    division = 10 / 2 # 5.0
-    potencia = 2**3  # 8 (2 elevado a la 3)
-    ```
-
-* **Listas (Arrays Básicos):** Colecciones ordenadas de elementos.
-    ```python
-    numeros = [1, 2, 3, 4, 5]
-    nombres = ["Ana", "Juan", "Maria"]
-    print(numeros[0]) # Accede al primer elemento (recuerda: en Python se empieza a contar desde 0)
-    ```
-
-* **Importar Librerías:** Así es como se añaden funcionalidades extra.
-    ```python
-    import pandas as pd # Importa la librería Pandas, y le damos un alias 'pd'
-    import numpy as np  # Importa NumPy, para operaciones numéricas avanzadas
-    ```
 
 ---
 
