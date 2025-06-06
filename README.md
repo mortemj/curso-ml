@@ -6,22 +6,19 @@
 
 Este curso tiene como objetivo desmitificar el Machine Learning, proporcionando una base sólida y práctica en los conceptos esenciales, desde la exploración de datos hasta la creación de modelos de clasificación. Utilizaremos ejemplos intuitivos y herramientas accesibles para que el aprendizaje sea efectivo y aplicable.
 
+
+
 ## 📚 Estructura del Curso (Fases)
 
 El curso está organizado en las siguientes fases, que te guiarán paso a paso a través del proceso de Machine Learning:
 
-* **Fase 1: Introducción a la Ciencia de Datos y Machine Learning - Los Cimientos**
-    * `./Fase_01_Introduccion/` (Aquí pondremos los archivos y notebooks de la Fase 1)
-* **Fase 2: Exploración y Limpieza de Datos (EDA) - Conociendo a Fondo Nuestros Datos**
-    * `./Fase_02_EDA_Limpieza/` (Aquí pondremos los archivos y notebooks de la Fase 2)
-* **Fase 3: Fundamentos Matemáticos y Estadísticos - El Idioma de los Datos y Nuestro Primer Modelo**
-    * `./Fase_03_Fundamentos_Modelo/`
-* **Fase 4: Más Allá de la Regresión Logística - Otros Modelos de Clasificación**
-    * `./Fase_04_Otros_Modelos/`
-* **Fase 5: Optimización y Validación de Modelos - Mejorando y Confirmando la Robustez**
-    * `./Fase_05_Optimizacion_Validacion/`
-* **Fase 6: Proyecto Final y Aplicaciones Avanzadas**
-    * `./Fase_06_Proyecto_Final/`
+* [**Fase 1: Introducción a la Ciencia de Datos y Machine Learning - Los Cimientos.**](Fase1/README.md)
+* [Fase 2: Exploración y Limpieza de Datos (EDA) - Conociendo a Fondo Nuestros Datos](Fase2/README.md)
+* [Fase 3: Fundamentos Matemáticos y Estadísticos - El Idioma de los Datos y Nuestro Primer Modelo](Fase3/README.md)
+* [Fase 4: Más Allá de la Regresión Logística - Otros Modelos de Clasificación](Fase4/README.md)
+* [Fase 5: Optimización y Validación de Modelos - Mejorando y Confirmando la Robustez](Fase5/README.md)
+* [Fase 6: Proyecto Final y Aplicaciones Avanzadas](Fase6/README.md) 
+
 
 ## 💻 Herramientas Utilizadas
 
