@@ -13,7 +13,7 @@ Este curso tiene como objetivo desmitificar el Machine Learning, proporcionando 
 El curso está organizado en las siguientes fases, que te guiarán paso a paso a través del proceso de Machine Learning:
 
 * [**Fase 1: Introducción a la Ciencia de Datos y Machine Learning - Los Cimientos.**](Fase_01/README.md)
-* [Fase 2: Exploración y Limpieza de Datos (EDA) - Conociendo a Fondo Nuestros Datos](Fase_02_EDA_Limpieza/README.md)
+* [Fase 2: Exploración y Limpieza de Datos (EDA) - Conociendo a Fondo Nuestros Datos](Fase_02/README.md)
 * [Fase 3: Fundamentos Matemáticos y Estadísticos - El Idioma de los Datos y Nuestro Primer Modelo](Fase_03_Fundamentos_Modelo/README.md)
 * [Fase 4: Más allá de la Regresión Logística - Otros Modelos de Clasificación](Fase_04_Otros_Modelos/README.md)
 * [Fase 5: Optimización y Validación de Modelos - Mejorando y Confirmando la Robustez](Fase_05_Optimizacion_Validacion/README.md)
